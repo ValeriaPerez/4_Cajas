@@ -1,0 +1,29 @@
+div>div>div
+{	background-color: red;
+	padding: 2px 80px 40px 100px;
+}
+
+div>div
+{	
+	background-color: green;
+    margin:50px 100px 50px 100px;
+    padding: 10px 15px 10px 60px;
+    
+}
+
+p
+{	
+	border: 4px white dashed;
+	padding: 20px 15px;
+	background-color: orange;
+	
+	}
+ 
+}
+
+#black
+{	background-color: black;
+	padding: 10px;
+	width: 200px;
+		
+	}	
